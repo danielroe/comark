@@ -87,6 +87,21 @@ catalog:
   "@sveltejs/vite-plugin-svelte": ^7.0.0
   svelte-check: ^4.4.6
 
+  # Angular
+  "@angular/common": ^21.0.0
+  "@angular/compiler": ^21.0.0
+  "@angular/compiler-cli": ^21.0.0
+  "@angular/core": ^21.0.0
+  "@angular/build": ^21.0.0
+  "@angular/platform-browser": ^21.0.0
+  "@angular/platform-browser-dynamic": ^21.0.0
+  "@angular/platform-server": ^21.0.0
+  "@angular/router": ^21.0.0
+  "@analogjs/vite-plugin-angular": ^3.0.0-alpha.53
+  zone.js: ^0.16.0
+  rxjs: ^7.8.0
+  tslib: ^2.6.0
+
   # Other Frameworks
   astro: ^6.1.5
   "@astrojs/react": ^5.0.3
